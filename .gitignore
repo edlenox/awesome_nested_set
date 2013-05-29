@@ -6,3 +6,4 @@ pkg
 *.gem
 Gemfile.lock
 gemfiles/Gemfile*.lock
+.idea
