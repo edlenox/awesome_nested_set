@@ -17,9 +17,9 @@ platforms :ruby do
   gem 'pg'
 end
 
-#gem 'activerecord', :github => 'rails/rails'
+gem 'activerecord', :github => 'rails/rails'
 #gem 'activerecord-deprecated_finders', :github => 'rails/activerecord-deprecated_finders'
-#gem 'journey', :github => 'rails/journey'
+gem 'journey', :github => 'rails/journey'
 
 # Add Oracle Adapters
 # gem 'ruby-oci8'
