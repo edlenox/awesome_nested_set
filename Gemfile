@@ -18,7 +18,7 @@ platforms :ruby do
 end
 
 gem 'activerecord', :github => 'rails/rails'
-gem 'activerecord-deprecated_finders', :github => 'rails/activerecord-deprecated_finders'
+#gem 'activerecord-deprecated_finders', :github => 'rails/activerecord-deprecated_finders'
 gem 'journey', :github => 'rails/journey'
 
 # Add Oracle Adapters
