@@ -23,6 +23,10 @@ gem 'railties', RAILS_VERSION
 gem 'activerecord', RAILS_VERSION
 gem 'actionpack', RAILS_VERSION
 
+gem 'railties', '~> 4.0.0'
+gem 'activerecord', '~> 4.0.0'
+gem 'actionpack', '~> 4.0.0'
+
 # Add Oracle Adapters
 # gem 'ruby-oci8'
 # gem 'activerecord-oracle_enhanced-adapter'
