@@ -18,10 +18,10 @@ platforms :ruby do
   gem 'pg'
 end
 
-RAILS_VERSION = nil unless defined? RAILS_VERSION
-gem 'railties', RAILS_VERSION
-gem 'activerecord', RAILS_VERSION
-gem 'actionpack', RAILS_VERSION
+#RAILS_VERSION = nil unless defined? RAILS_VERSION
+#gem 'railties', RAILS_VERSION
+#gem 'activerecord', RAILS_VERSION
+#gem 'actionpack', RAILS_VERSION
 
 gem 'railties', '~> 4.0.0'
 gem 'activerecord', '~> 4.0.0'
@@ -32,5 +32,5 @@ gem 'actionpack', '~> 4.0.0'
 # gem 'activerecord-oracle_enhanced-adapter'
 
 # Debuggers
-# gem 'pry'
-# gem 'pry-nav'
+#gem 'pry'
+#gem 'pry-nav'
