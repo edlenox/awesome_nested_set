@@ -23,9 +23,9 @@ end
 #gem 'activerecord', RAILS_VERSION
 #gem 'actionpack', RAILS_VERSION
 
-gem 'railties', '~> 4.0.0'
-gem 'activerecord', '~> 4.0.0'
-gem 'actionpack', '~> 4.0.0'
+gem 'railties', '~> 4.0.2'
+gem 'activerecord', '~> 4.0.2'
+gem 'actionpack', '~> 4.0.2'
 
 # Add Oracle Adapters
 # gem 'ruby-oci8'
